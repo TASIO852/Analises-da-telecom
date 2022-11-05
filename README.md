@@ -1,19 +1,14 @@
-# Análise de Dados
-
-## Desafio:
+# Análise da Telecom
 
 O problema é que, analisando o histórico dos clientes dos últimos anos, percebeu - se que esta havendo um maior numero de casos de cancelamentos de planos da Telecom e com fiz uma analise de churn rate dos clientes para tomada de decisão
 
-Dataset original :
-Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
+[Dataset](https://www.kaggle.com/radmirzosimov/telecom-users-dataset)
 
 ## Conclusões e Ações
 
-Escreva aqui suas conclusões:
-
 - Clientes com contrato mensal tem MUITO mais chance de cancelar:
   - Podemos fazer promoções para o cliente ir para o contrato anual
-- Familias maiores tendem a cancelar menos do que famílias menores
+- Famílias maiores tendem a cancelar menos do que famílias menores
   - Podemos fazer promoções pra pessoa pegar uma linha adicional de telefone
 - MesesComoCliente baixos tem MUITO cancelamento. Clientes com pouco tempo como cliente tendem a cancelar muito
   - A primeira experiência do cliente na operadora pode ser ruim
